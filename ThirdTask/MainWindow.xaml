@@ -8,6 +8,6 @@
         ResizeMode="NoResize"
         Title="GZipStream" Height="150" Width="200">
     <Grid>
-        <Button x:Name="Unzip_btn" Width="100" Height="30" Content="Unzip" Click="Unzip_Click" />
+        <Button x:Name="Unzip_btn" Width="100" Height="30" Content="Unzip" Click="Unzip_Click"/>
     </Grid>
 </Window>
